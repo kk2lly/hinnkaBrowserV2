@@ -6,4 +6,4 @@
 
 Most Another Yet Portable Private Browser With Same Thing But Diff. Changes!
 
-The Extensions Having Is [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin), [Proton VPN](https://addons.mozilla.org/en-US/firefox/addon/proton-vpn-firefox-extension/), and [Save Image As Type](https://addons.mozilla.org/en-US/firefox/addon/siat)
+The Extensions Having Is [Proton VPN](https://addons.mozilla.org/en-US/firefox/addon/proton-vpn-firefox-extension/), [Save Image As Type](https://addons.mozilla.org/en-US/firefox/addon/siat), and [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
